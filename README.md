@@ -14,6 +14,7 @@ Tugas ini kami kerjakan secara berkelompok dengan pembagian tugas sebagai beriku
 Untuk hasil jadi web ada pada repository ini
 
 Terima kasih telah berkunjung ke akun github kami
+
 Selamat menikmati!
 
 -- Kelompok 3 TEFA Malang --
