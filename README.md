@@ -8,7 +8,7 @@ Tugas ini kami kerjakan secara berkelompok dengan pembagian tugas sebagai beriku
 
 1. Alya Rusyda Maharistya  (Coder)
 2. Arlando Muhammad Farrel (Desainer)
-3. Khusnul Faddila         (Notulis laporan)
+3. Khusnul Faddila         (Notulis laporan & desainer)
 4. Naufal Fakhri Risnawa   (Coder)
 
 Untuk hasil jadi web ada pada repository ini
